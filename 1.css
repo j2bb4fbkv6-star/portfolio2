@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url('/Users/utub-zabivnojvanek/Desktop/Visma/744bdf0410bb2a420edf4474028ff42a6270fee0.png');
+    width: 100rem;
+    background-size: 100%;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    color: white;
+    gap: 50px;
+    font-weight: bold;
+    margin-top: 10px;
+    font-size: 20px;
+}
+header{
+    display: flex;
+    justify-content: left;
+    gap: 17rem;
+}
+main{
+    display: flex;
+    font-size: 20px;
+    gap: 44px;
+    margin-top: 10px;
+}
+.price{
+    color: red;
+    font-size: 2rem;
+}
+.button{
+    color: white;
+    background-color: red;
+    padding: 10px;
+    border-radius: 15px;
+    width: 4rem;
+    margin-left: 32rem;
+    font-weight: bold;
+    
+}
+section{
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    
+}
+.text{
+    color: white;
+}
+.h{
+    display: flex;
+    justify-content: center;
+}
+.l{
+    margin-left: 40rem;
+    margin-top: 30rem;
+    font-size: 1rem;
+}
+
+.color{
+    color: white;
+    font-weight: bold;
+    margin-left: 10rem;
+    margin-top: 5rem;
+    font-size: 1.5rem;
+}
+.img{
+    margin-top: 2rem;
+    margin-left: 0px;
+}
+.o{
+    color: white;
+    border:  solid white 1px;
+    padding: 10px;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+.buttons{
+    display: flex;
+    justify-content: space-between;
+}
+.j{
+
+}
